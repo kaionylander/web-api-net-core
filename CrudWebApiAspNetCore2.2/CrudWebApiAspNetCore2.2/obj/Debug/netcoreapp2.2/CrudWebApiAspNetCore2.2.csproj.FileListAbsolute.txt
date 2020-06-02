@@ -1,0 +1,14 @@
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\bin\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.deps.json
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\bin\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.runtimeconfig.json
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\bin\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.runtimeconfig.dev.json
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\bin\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.dll
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\bin\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.pdb
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.csprojAssemblyReference.cache
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.csproj.CoreCompileInputs.cache
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.RazorAssemblyInfo.cache
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.RazorAssemblyInfo.cs
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.AssemblyInfoInputs.cache
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.AssemblyInfo.cs
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.RazorTargetAssemblyInfo.cache
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.dll
+C:\Users\kaio\source\repos\CrudWebApiAspNetCore2.2\CrudWebApiAspNetCore2.2\obj\Debug\netcoreapp2.2\CrudWebApiAspNetCore2.2.pdb
